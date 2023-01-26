@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background:url("Vive Haiti.jpg");
+    margin: 0;
+    padding: 0;
+    
+   background-repeat: no-repeat;
+   background-size: cover;
+
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: tan;
+    margin-right: 10px;
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    margin-bottom: 10px;
+  }
+  
+  section ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  section li {
+    margin-bottom: 10px;
+  }
+  
